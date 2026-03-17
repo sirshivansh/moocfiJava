@@ -1,5 +1,5 @@
 
-public class VariousVariables {
+public class VariousVARIABLES {
 
     public static void main(String[] args) {
         // MODIFY THESE:
